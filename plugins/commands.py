@@ -163,9 +163,9 @@ async def start(client, message):
                         [
                          [
                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f'https://t.me/hbbotz')
+                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=f'https://t.me/Testingnarubot')
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/Hariomsingh31u")
+                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/officialdc17")
                          ]
                         ]
                     )
